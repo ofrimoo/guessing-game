@@ -112,7 +112,7 @@ fi
 		read response3
 
 		if [ "$response3" != "n" ]; then
-			echo "bot: here is your hint: _____ ______"
+			echo "bot: here is your hint: _ _ _ _ _  _ _ _ _ _ _"
 		fi
 	fi
 		
